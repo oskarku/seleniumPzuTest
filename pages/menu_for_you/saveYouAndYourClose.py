@@ -1,0 +1,1 @@
+#prepare special testCase for https://www.pzu.pl/dla-ciebie-i-rodziny/zycie-i-zdrowie

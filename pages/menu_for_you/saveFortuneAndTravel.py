@@ -1,0 +1,1 @@
+#prepare special testcase for https://www.pzu.pl/dla-ciebie-i-rodziny/majatek-podroze-oc
